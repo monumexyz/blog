@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Hello World!"
+date:   2023-12-20 01:30:00 +0300
+categories: misc
+---
+
+If you can read this, then the blog is working! This is the first post on the Monume blog. We will be posting updates about Monume here. If you want to stay informed about Monume, you can follow us on [Twitter](https://twitter.com/monumexyz).
